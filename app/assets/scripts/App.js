@@ -4,6 +4,7 @@ import $ from "jquery";
 import StickyHeader from "./modules/StickyHeader";
 import Modal from "./modules/Modal";
 
+
 var mobileMenu = new MobileMenu();
 
 // create two new objects to pass to the reveal js constructor
